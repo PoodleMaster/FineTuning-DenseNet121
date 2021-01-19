@@ -1,4 +1,5 @@
 # ■FineTuning (DenseNet121)
+Tried MNIST using the DenseNet121 model that has been trained with ImageNet.
 
 # ■Contributing
 Contributions, issues and feature requests are welcome.
