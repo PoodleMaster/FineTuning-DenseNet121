@@ -1,5 +1,5 @@
 # ■FineTuning (DenseNet121)
-Tried **`MNIST`** using the **[DenseNet121](https://keras.io/ja/applications/#densenet)** model that has been trained with ImageNet.
+Tried **`[MNIST](https://keras.io/ja/datasets/#mnist)`** using the **[DenseNet121](https://keras.io/ja/applications/#densenet)** model that has been trained with ImageNet.
 
 # ■Requirements
 Google Colab
