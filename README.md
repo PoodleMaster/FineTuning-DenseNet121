@@ -1,10 +1,10 @@
-# ■FineTuning
+# ■FineTuning (DenseNet121)
 Tried **`MNIST`** using the **DenseNet121** model that has been trained with ImageNet.
 
 # ■Requirements
 Google Colab
 
-# ■How to
+# ■How to FineTuning
 ### ➊How to match MNIST images to the DensNet121 input tensor
 [Click here for details (See .ipynb)](https://github.com/PoodleMaster/FineTuning-DenseNet121/blob/main/%E3%80%90FineTuning%E3%80%91DenseNet121(64%2C%2064%2C%203ch)%20NG56.ipynb)
 
